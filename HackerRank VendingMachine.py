@@ -23,6 +23,8 @@ class VendingMachine():
                 return "Not enough items in the machine"
             else:
                 return "Not enough coins"
+     else:
+        sys.exit("code is not correct")
             
             
          
