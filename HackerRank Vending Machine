@@ -110,7 +110,8 @@ Sample Input 1
 50 50
 
 50 60
-
+//this step can be eleminated
+print(sampleoutput/100)
 Sample Output 1
 
 10
